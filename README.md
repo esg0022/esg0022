@@ -1,4 +1,10 @@
-<h1 align="center">hey, soy Esteban Serna Gamba</h1>
+<h1 align="center">hello, i'm Esteban Serna Gamba</h1>
+<h3 align="center">Cross-Platform Application Developer</h3>
+
+- 🌱 currently learning: **Linux System Administration, Network Infrastructure, Virtualization with Proxmox, Dockers and Container Technologies, Java Software Development, Android Development, Self-Hosted Developmenent, Database Design and SQL**
+
+- 📫 How to reach me: **estesergam@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
